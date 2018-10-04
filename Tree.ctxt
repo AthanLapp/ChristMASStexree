@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tree()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Tree\n
+comment1.params=height\ width\ offset\ c
+comment1.target=void\ drawTrunk(int,\ int,\ int,\ char)
+comment1.text=\n\ Draws\ the\ trunk\ of\ a\ tree\ with\ specific\ height,\ width,\ offset\ and\ drawing\ character\n\ \n\ @param\ \ height\ the\ height\ of\ the\ trunk\ in\ lines\n\ @param\ width\ the\ width\ of\ the\ trunk\n\ @param\ offset\ the\ length\ of\ white\ space\ on\ the\ left\ of\ the\ trunk\n\ @param\ c\ the\ character\ udes\ to\ fill\ in\ the\ trunk\n
+comment2.params=height\ offset\ trim\ c
+comment2.target=void\ drawTriangle(int,\ int,\ int,\ char)
+comment2.text=\n\ Draws\ an\ isosceles\ triangle\ with\ specific\ initial\ height,\ offset,\ trim\ and\ drawing\ character\n\ \n\ @param\ height\ the\ original\ height\ of\ the\ triangle\ (number\ of\ lines)\n\ @param\ offset\ the\ length\ of\ white\ space\ on\ the\ left\ of\ the\ triangle\n\ @param\ trim\ the\ hidden\ height\ of\ the\ triangle\ (number\ of\ lines\ trimmed\ from\ the\ top)\n\ @param\ c\ the\ character\ ussed\ to\ fill\ in\ the\ triangle\n
+comment3.params=branches
+comment3.target=void\ drawChristmasTree(int)
+comment3.text=\n\ Draws\ a\ christmas\ tree\ with\ a\ specific\ number\ of\ branches\n\ \n\ @param\ branches\ the\ number\ of\ branches\ of\ the\ tree\n
+numComments=4
